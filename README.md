@@ -1,5 +1,5 @@
 # Smart-EAS-Helmet
-#Smart Emergency Alert System Helmet
+Smart Emergency Alert System Helmet
 
 Helmets are necessary to wear as a safety gear to prevent injuries in an accident. When we can't prevent a crash or impact, we know it will occur, a helmet can prevent or minimize injury to the head and brain. Thus it is compulsory to wear the helmet in almost every country. 
 
